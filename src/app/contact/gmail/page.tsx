@@ -1,7 +1,7 @@
 
 
 export default async function Gmail(){
-    await new Promise((resolve, reject) => 
+    await new Promise((resolve) => 
         {setTimeout(resolve,5000)
         
     })
